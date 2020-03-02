@@ -26,6 +26,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 Enter username and password
 
-```username: hruday@gmail.com
+```
+username: hruday@gmail.com
 password: hruday123
 ```
